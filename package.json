@@ -2,10 +2,10 @@
   "name": "patient_schedule_points",
   "version": "1.0.0",
   "description": "",
-  "main": "monthly_start.js",
+  "main": "quarterly_start.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node quarterly_start.js"
   },
   "author": "",
   "license": "ISC",
